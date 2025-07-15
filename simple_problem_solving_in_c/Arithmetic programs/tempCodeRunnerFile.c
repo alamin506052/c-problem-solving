@@ -1,0 +1,1 @@
+printf("%d hours in equivalent to %d minutes or %d seconds.\n", hours, minutes, seconds);
